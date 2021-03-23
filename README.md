@@ -5,7 +5,7 @@
 
 I am a software/DevOps engineer with +5 years in industry. Worked in open-source projects, telcos and fintec companies.
 
-[LinkedIn](www.linkedin.com/in/german-rivera-de-la-torre-4b265653)
+[LinkedIn](http://linkedin.com/in/german-rivera-de-la-torre-4b265653)
 
 # Technologies & Tools
 
